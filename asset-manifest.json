@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/26-deploying-react-apps-starting-project/static/css/main.c9cb24fa.css",
+    "main.js": "/26-deploying-react-apps-starting-project/static/js/main.56073458.js",
+    "static/css/793.4b61d516.chunk.css": "/26-deploying-react-apps-starting-project/static/css/793.4b61d516.chunk.css",
+    "static/js/793.43218f68.chunk.js": "/26-deploying-react-apps-starting-project/static/js/793.43218f68.chunk.js",
+    "static/css/345.7eceb000.chunk.css": "/26-deploying-react-apps-starting-project/static/css/345.7eceb000.chunk.css",
+    "static/js/345.64b90584.chunk.js": "/26-deploying-react-apps-starting-project/static/js/345.64b90584.chunk.js",
+    "index.html": "/26-deploying-react-apps-starting-project/index.html",
+    "main.c9cb24fa.css.map": "/26-deploying-react-apps-starting-project/static/css/main.c9cb24fa.css.map",
+    "main.56073458.js.map": "/26-deploying-react-apps-starting-project/static/js/main.56073458.js.map",
+    "793.4b61d516.chunk.css.map": "/26-deploying-react-apps-starting-project/static/css/793.4b61d516.chunk.css.map",
+    "793.43218f68.chunk.js.map": "/26-deploying-react-apps-starting-project/static/js/793.43218f68.chunk.js.map",
+    "345.7eceb000.chunk.css.map": "/26-deploying-react-apps-starting-project/static/css/345.7eceb000.chunk.css.map",
+    "345.64b90584.chunk.js.map": "/26-deploying-react-apps-starting-project/static/js/345.64b90584.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9cb24fa.css",
+    "static/js/main.56073458.js"
+  ]
+}
